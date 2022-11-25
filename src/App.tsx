@@ -4,7 +4,13 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      Скоро тут будет сайт!
+      <header>
+        Скоро тут будет хеадер сайта!
+      </header>
+        Тут будет тело сайта!
+      <footer>
+        Тут будет футер сайта!
+      </footer>
     </div>
   );
 }
